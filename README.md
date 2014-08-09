@@ -1,6 +1,4 @@
-ag_UnitFrames_Improved
-======================
+#ag_UnitFrames_Improved WOW 1.12.1
 
-WOW 1.12.1
 
 modified ag_UnitFrames initial release by Skela
